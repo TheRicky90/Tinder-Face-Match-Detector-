@@ -33,7 +33,7 @@ Ensure you have [Python](https://python.org) installed on Windows and added to y
 
 1. Create a folder named `target_faces` in the root directory of the project.
 2. Put the pictures of the person you are looking for inside the `target_faces` folder.
-3. Manually download the OpenCV model file [haarcascade_frontalface_default.xml](https://github.com) and place it in the root folder.
+3. Manually download the OpenCV model file (haarcascade_frontalface_default.xml) is already included in the repository root.
 4. Run the script from the terminal:
    ```bash
    python tinder_scraper.py
@@ -71,7 +71,7 @@ Assicurati di avere [Python](https://python.org) installato su Windows e configu
 
 1. Crea una cartella denominata `target_faces` nella directory principale del progetto.
 2. Inserisci all'interno di `target_faces` le immagini della persona che stai cercando.
-3. Scarica manualmente il modello di OpenCV [haarcascade_frontalface_default.xml](https://github.com) e posizionalo nella cartella principale.
+3. Il modello di OpenCV necessario (haarcascade_frontalface_default.xml) è già incluso nella cartella principale della repository.
 4. Avvia lo script da terminale:
    ```bash
    python tinder_scraper.py
